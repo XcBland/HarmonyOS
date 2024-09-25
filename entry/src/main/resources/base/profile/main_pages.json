@@ -1,0 +1,6 @@
+{
+  "src": [
+    "pages/home/Index",
+    "pages/MyLogin"
+  ]
+}
